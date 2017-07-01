@@ -1,0 +1,20 @@
+[
+    {
+        "deviceSerialNumber": "G030XXXXXXXXXXXX",
+        "senderName": "Grandma",
+        "senderPhoneNumber": "(206) 555-1212",
+        "senderAddress": "123 Fake St, Realtown, ZY 99999",
+        "contactPhoneNumbers": [
+            "+12485551212"
+        ]
+    },
+    {
+        "deviceSerialNumber": "G030XXXXXXXXXXXX",
+        "senderName": "Mom",
+        "senderPhoneNumber": "(425) 555-1212",
+        "senderAddress": "123 Fake St, Realtown, ZY 99999",
+        "contactPhoneNumbers": [
+            "+12485551212"
+        ]
+    }
+]

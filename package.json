@@ -1,0 +1,6 @@
+{
+    "name": "lifealert-button",
+    "dependencies": {
+        "twilio": "^3.4.0"
+    }
+}
